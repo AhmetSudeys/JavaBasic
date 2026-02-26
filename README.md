@@ -20,6 +20,7 @@ Java programlamanın yapı taşlarını ve algoritma mantığını tamamen kavra
 ### 🎮 [Oyunlar](./Oyunlar)
 Öğrenme sürecinin en keyifli kısmı! Bu klasörde Java ile geliştirdiğim **6 farklı oyun** bulunmaktadır. Her biri hem mantıksal hem de görsel olarak farklı bir meydan okumayı temsil ediyor:
 * Birbirinden eğlenceli ve öğretici 6 farklı masaüstü oyunu.
+* Projeleri bilgisayarınıza indirip bu oyunları bizzat deneyebilir ve eğlencenin tadını çıkarabilirsiniz! :)
 
 ---
 
